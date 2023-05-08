@@ -1,0 +1,133 @@
+{
+  "/": [
+    {
+      "type": "script",
+      "href": "/assets/index.0ada8e1d.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/Favicon.bc1ca08e.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/BareClient.06787bc0.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.104056db.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/url.624aedf1.js"
+    }
+  ],
+  "/internal/bookmarks": [
+    {
+      "type": "script",
+      "href": "/assets/bookmarks.a5dfed4c.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    }
+  ],
+  "/internal/history": [
+    {
+      "type": "script",
+      "href": "/assets/history.0b77741e.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/Favicon.bc1ca08e.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/BareClient.06787bc0.js"
+    }
+  ],
+  "/internal/newTab": [
+    {
+      "type": "script",
+      "href": "/assets/newTab.5072256a.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/url.624aedf1.js"
+    }
+  ],
+  "/internal/preferences": [
+    {
+      "type": "script",
+      "href": "/assets/preferences.b2a505d2.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    }
+  ],
+  "/internal/view-source": [
+    {
+      "type": "script",
+      "href": "/assets/view-source.c0fc7214.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/BareClient.06787bc0.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/view-source.5c045b07.css"
+    }
+  ],
+  "entry-client": [],
+  "index.html": [
+    {
+      "type": "script",
+      "href": "/assets/index.e65d7ba3.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.f2f66a35.css"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{i as t,d as l,T as n,U as o,t as r}from"./index.e65d7ba3.js";const s=r('<main class="flex h-full w-full bg-[#1C1B22] text-white"></main>');function i(){return(()=>{const e=s.cloneNode(!0);return t(e,l(n,{children:"Bookmarks"}),null),t(e,l(o,{rel:"icon",href:"/icons/star.svg"}),null),e})()}export{i as default};
